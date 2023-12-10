@@ -18,7 +18,7 @@ python3 morpion.py
 
 ## Fonctionnement
 
-Le tableau est fait de facon a ce que si vous voulez jouez dans la 6ème case vous entrez : 2 3
+Le tableau est fait de facon a ce que si vous voulez jouez dans la 6ème case (voir ci-dessous), vous entrez : 2 3
 ```
 #-----#-----#-----#
 |  1  |  2  |  3  |
